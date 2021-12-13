@@ -1,4 +1,4 @@
 baseURL = "http://nmnokr.github.io/blog-site/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme='hugo-book
+theme='hugo-book'
